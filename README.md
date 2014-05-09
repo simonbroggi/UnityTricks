@@ -4,7 +4,9 @@ UnityTricks
 Utils Importer (Blender)
 -----------
 
-Add mesh to bones marked by name. The mesh is added as rigid (not skinned) mesh filter Instantiation of the mesh is not lost.
+Add mesh to bones marked by name.
+
+The mesh is added as rigid (not skinned) mesh filter. Instantiation of the mesh is not lost.
 
 The mesh must be in a separate blend file named xxxUtils.blend where xxx is the name of the referencing blend file.
 
